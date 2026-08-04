@@ -3,7 +3,7 @@
 ### 🎓 Project Introduction: ML-Student-Outcome-Predictor
 This project is an end-to-end machine learning pipeline designed to predict student outcomes based on demographic, attendance, and performance data. It demonstrates the full workflow of a data science project, from raw data preprocessing to model deployment.
 
-##🔑 Key Objectives
+## 🔑 Key Objectives
 - Data Preprocessing: Cleaning, feature engineering, and handling missing values.
 
 - Exploratory Data Analysis (EDA): Visualizing trends and correlations to understand student performance drivers.
